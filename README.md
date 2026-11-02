@@ -1,3 +1,5 @@
+> **Archived.** This project now lives in the XCore monorepo, in [`libs/xcore-ui`](https://github.com/XCore-mindustry/xcore/tree/main/libs/xcore-ui). Releases continue there with the same package coordinates, tagged `xcore-ui/vX.Y.Z`. Report issues and send pull requests to the monorepo.
+
 # XCore-UI (`xcore-ui`)
 
 > A type-safe, reactive, server-driven UI framework for Mindustry v160 servers running on Java 25.
